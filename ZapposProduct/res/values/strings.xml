@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zappos Product</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_save">Do you want to add item to wishlist?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="view_wishlist">View Wishlist</string>
+    <string name="imageViewDescription">Images of Page</string>
+    <string name="instructions_string">Tap on item to add to wishlist</string>
+    <string name="not_twenty">Not 20% off</string>
+    <string name="add_wishlist">Add To Wishlist?</string>
+    <string name="check_wishlist_string">Check Wishlist For Discount</string>
+    <string name="in_wishlist">Items In Wishlist</string>
+
+</resources>
